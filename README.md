@@ -11,12 +11,6 @@ C# tilida yozilgan konsol dasturi bo'lib, foydalanuvchidan 2 ta qiymat qabul qil
 
 ---
 
-## 🚀 Ishga tushirish
-
-```bash
-dotnet run
-```
-
 ---
 
 ## 📋 Dastur imkoniyatlari
@@ -41,4 +35,3 @@ Dastur ishga tushganda 2 ta bo'lim taklif etiladi:
 
 ---
 
-## 🖥️ Namuna
